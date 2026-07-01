@@ -71,3 +71,49 @@ This project provided practical experience with:
 ## Author
 
 Soumya Ramdasi
+==============
+
+# 🎵 Music Recommendation System 🎵
+
+A command-line music recommendation system built in Java that recommends songs based on user preferences.
+
+---
+
+## Features
+
+- Recommend songs by genre
+- Filter songs by language
+- Browse songs by decade
+- Artist-based recommendations
+- Command-line interface
+
+---
+
+## Tech Stack
+
+- Java
+- Object-Oriented Programming
+- ArrayLists
+
+---
+
+## Future Improvements
+
+- GUI version
+- Database integration
+- Spotify API integration
+- Smarter recommendation algorithm
+
+---
+
+## Author
+
+Soumya Ramdasi
+
+>>>>>>> a1446c2 (Organize project structure)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
